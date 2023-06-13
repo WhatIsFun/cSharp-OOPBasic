@@ -10,7 +10,7 @@ namespace cSharp_OOPBasics
         public string grade;
         public string registerationnumber;
 
-        public Student(string name, int Id, string registerationnumber)
+        public Student(string name, int Id, string registerationnumber) // Constructor its has to be same name as class name
         {
             this.name = name;
             this.Id = Id;   
@@ -25,7 +25,7 @@ namespace cSharp_OOPBasics
 
         public void studentDetails()
         {
-            Console.WriteLine("Student Name: "+ this.name + " Registeration Number: "+ this.registerationnumber);
+            Console.WriteLine("Student Name: "+ this.name + ", Registeration Number: "+ this.registerationnumber);
         }
 
     }
