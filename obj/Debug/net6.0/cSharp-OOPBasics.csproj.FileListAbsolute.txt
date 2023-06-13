@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.AssemblyInfo.cs
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\bin\Debug\net6.0\cSharp-OOPBasics.exe
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\bin\Debug\net6.0\cSharp-OOPBasics.deps.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\bin\Debug\net6.0\cSharp-OOPBasics.runtimeconfig.json
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\bin\Debug\net6.0\cSharp-OOPBasics.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\bin\Debug\net6.0\cSharp-OOPBasics.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\refint\cSharp-OOPBasics.dll
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.pdb
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\cSharp-OOPBasics.genruntimeconfig.cache
+C:\Users\user\Desktop\code-TRA\git-starter\cSharp-OOPBasics\cSharp-OOPBasics\obj\Debug\net6.0\ref\cSharp-OOPBasics.dll
